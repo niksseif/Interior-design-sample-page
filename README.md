@@ -9,7 +9,7 @@ HTML <br>
 CSS<br>
 jquery <br>
 # Credit
-Robots lovingly delivered by Robohash.org
+All the images are from unspash.com
 
 # Screen-Shot
 <img src=""> Not available at the moment</img>
