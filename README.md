@@ -14,4 +14,4 @@ All the images are from unspash.com
 # Screen-Shot
 <img src="https://media.giphy.com/media/z2ZRBldaN0QUCJTGhf/giphy.gif"></img><br>
 
-##Please star this project if you decide to use this project.
+## Please star this project if you decide to use it.
