@@ -12,6 +12,9 @@ jquery <br>
 All the images are from unspash.com
 
 # Screen-Shot
-<img src="https://media.giphy.com/media/QaxiGkMCUf07Sr1ci8/giphy.gif"></img><br>
+<img src="https://media.giphy.com/media/z2ZRBldaN0QUCJTGhf/giphy.gif" alt="home screen"></img><br>
+You can find the full page here https://media.giphy.com/media/3RxzhYVVhd1Bl5uTrC/giphy.gif. 
 
-## Please star this project if you decide to use it.Enjoy
+
+
+## Please star this project if you like it.
